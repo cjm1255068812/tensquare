@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e632e978-a730-4491-b466-eb58a3767610" name="Default Changelist" comment="" />
+    <list default="true" id="e632e978-a730-4491-b466-eb58a3767610" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/logs/info.log" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +60,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -65,6 +80,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1f5cZ73FYH2oqxy69NvJmCyPqhf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -78,9 +94,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -134,7 +151,7 @@
       <workItem from="1595511448538" duration="532000" />
       <workItem from="1595512007694" duration="11217000" />
       <workItem from="1595772070422" duration="1856000" />
-      <workItem from="1595773952203" duration="5790000" />
+      <workItem from="1595773952203" duration="6707000" />
     </task>
     <servers />
   </component>
@@ -154,22 +171,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="236" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1595773785273" />
-    <state width="1867" height="457" key="GridCell.Tab.0.bottom" timestamp="1595781579192">
+    <state width="1867" height="213" key="GridCell.Tab.0.bottom" timestamp="1595782693029">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595781579192" />
-    <state width="1867" height="457" key="GridCell.Tab.0.center" timestamp="1595781579191">
+    <state width="1867" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595782693029" />
+    <state width="1867" height="213" key="GridCell.Tab.0.center" timestamp="1595782693028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="457" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595781579191" />
-    <state width="1867" height="457" key="GridCell.Tab.0.left" timestamp="1595781579191">
+    <state width="1867" height="213" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595782693028" />
+    <state width="1867" height="213" key="GridCell.Tab.0.left" timestamp="1595782693028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="457" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595781579191" />
-    <state width="1867" height="457" key="GridCell.Tab.0.right" timestamp="1595781579191">
+    <state width="1867" height="213" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595782693028" />
+    <state width="1867" height="213" key="GridCell.Tab.0.right" timestamp="1595782693028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="457" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595781579191" />
+    <state width="1867" height="213" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595782693028" />
     <state width="1867" height="457" key="GridCell.Tab.1.bottom" timestamp="1595781579192">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -198,6 +215,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="330" y="95" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1595773820118" />
+    <state x="452" y="206" key="Vcs.Push.Dialog.v2" timestamp="1595782618296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="206" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1595782618296" />
+    <state x="650" y="210" key="VcsDiffUtil.ChangesDialog" timestamp="1595782689969">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="650" y="210" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595782689969" />
     <state x="601" y="92" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1595516851486">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
