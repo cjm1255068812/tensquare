@@ -1,0 +1,55 @@
+[2020-07-27 00:31:33] INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting BaseApplication on DESKTOP-MHJRTBK with PID 2308 (D:\JAVA\WorkSpace\tensquare\base\target\classes started by CHEN in D:\JAVA\WorkSpace\tensquare)
+[2020-07-27 00:31:33] INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 249 multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 127 registerRepositoriesIn - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 187 registerRepositoriesIn - Finished Spring Data repository scanning in 60ms. Found 1 JPA repository interfaces.
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 249 multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 127 registerRepositoriesIn - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport 348 isStrictRepositoryCandidate - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.jermine.base.dao.LabelDao. If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository.
+[2020-07-27 00:31:33] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 187 registerRepositoriesIn - Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+[2020-07-27 00:31:34] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 9001 (http)
+[2020-07-27 00:31:34] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2020-07-27 00:31:34] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[2020-07-27 00:31:34] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2020-07-27 00:31:34] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 285 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1475 ms
+[2020-07-27 00:31:34] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 181 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2020-07-27 00:31:34] INFO  com.zaxxer.hikari.HikariDataSource 110 getConnection - HikariPool-1 - Starting...
+[2020-07-27 00:31:35] INFO  com.zaxxer.hikari.HikariDataSource 123 getConnection - HikariPool-1 - Start completed.
+[2020-07-27 00:31:35] INFO  org.hibernate.Version 44 logVersion - HHH000412: Hibernate ORM core version 5.4.17.Final
+[2020-07-27 00:31:36] INFO  org.hibernate.annotations.common.reflection.java.JavaReflectionManager 49 <clinit> - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[2020-07-27 00:31:36] INFO  org.hibernate.dialect.Dialect 172 <init> - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2020-07-27 00:31:36] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator 52 initiateService - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2020-07-27 00:31:36] INFO  org.springframework.orm.jpa.AbstractEntityManagerFactoryBean 416 buildNativeEntityManagerFactory - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2020-07-27 00:31:37] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2020-07-27 00:31:37] INFO  org.springframework.data.repository.config.DeferredRepositoryInitializationListener 49 onApplicationEvent - Triggering deferred initialization of Spring Data repositories…
+[2020-07-27 00:31:37] INFO  org.springframework.data.repository.config.DeferredRepositoryInitializationListener 53 onApplicationEvent - Spring Data repositories initialized!
+[2020-07-27 00:31:37] INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started BaseApplication in 4.74 seconds (JVM running for 6.568)
+[2020-07-27 00:35:11] INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting BaseApplication on DESKTOP-MHJRTBK with PID 11732 (D:\JAVA\WorkSpace\tensquare\base\target\classes started by CHEN in D:\JAVA\WorkSpace\tensquare)
+[2020-07-27 00:35:11] INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 249 multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 127 registerRepositoriesIn - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 187 registerRepositoriesIn - Finished Spring Data repository scanning in 85ms. Found 1 JPA repository interfaces.
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 249 multipleStoresDetected - Multiple Spring Data modules found, entering strict repository configuration mode!
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 127 registerRepositoriesIn - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport 348 isStrictRepositoryCandidate - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.jermine.base.dao.LabelDao. If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository.
+[2020-07-27 00:35:12] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate 187 registerRepositoriesIn - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+[2020-07-27 00:35:13] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 108 initialize - Tomcat initialized with port(s): 9001 (http)
+[2020-07-27 00:35:13] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting service [Tomcat]
+[2020-07-27 00:35:13] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Starting Servlet engine: [Apache Tomcat/9.0.36]
+[2020-07-27 00:35:13] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring embedded WebApplicationContext
+[2020-07-27 00:35:13] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 285 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1637 ms
+[2020-07-27 00:35:13] INFO  org.springframework.scheduling.concurrent.ExecutorConfigurationSupport 181 initialize - Initializing ExecutorService 'applicationTaskExecutor'
+[2020-07-27 00:35:13] INFO  com.zaxxer.hikari.HikariDataSource 110 getConnection - HikariPool-1 - Starting...
+[2020-07-27 00:35:14] INFO  com.zaxxer.hikari.HikariDataSource 123 getConnection - HikariPool-1 - Start completed.
+[2020-07-27 00:35:14] INFO  org.hibernate.Version 44 logVersion - HHH000412: Hibernate ORM core version 5.4.17.Final
+[2020-07-27 00:35:14] INFO  org.hibernate.annotations.common.reflection.java.JavaReflectionManager 49 <clinit> - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+[2020-07-27 00:35:14] INFO  org.hibernate.dialect.Dialect 172 <init> - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[2020-07-27 00:35:15] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator 52 initiateService - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2020-07-27 00:35:15] INFO  org.springframework.orm.jpa.AbstractEntityManagerFactoryBean 416 buildNativeEntityManagerFactory - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2020-07-27 00:35:15] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 220 start - Tomcat started on port(s): 9001 (http) with context path ''
+[2020-07-27 00:35:15] INFO  org.springframework.data.repository.config.DeferredRepositoryInitializationListener 49 onApplicationEvent - Triggering deferred initialization of Spring Data repositories…
+[2020-07-27 00:35:15] INFO  org.springframework.data.repository.config.DeferredRepositoryInitializationListener 53 onApplicationEvent - Spring Data repositories initialized!
+[2020-07-27 00:35:15] INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started BaseApplication in 4.609 seconds (JVM running for 6.459)
+[2020-07-27 00:35:18] INFO  org.apache.juli.logging.DirectJDKLog 173 log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-07-27 00:35:18] INFO  org.springframework.web.servlet.FrameworkServlet 525 initServletBean - Initializing Servlet 'dispatcherServlet'
+[2020-07-27 00:35:18] INFO  org.springframework.web.servlet.FrameworkServlet 547 initServletBean - Completed initialization in 6 ms
